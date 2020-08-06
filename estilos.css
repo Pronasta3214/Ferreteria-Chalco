@@ -1,0 +1,71 @@
+.caja1 {
+    width: 1920px;
+    height: 1080px;
+    background-size: cover;
+    background-image: url("img/IMG_1422.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+header {
+    width: 1000px;
+    overflow: hidden;
+    background: #f30000;
+    margin-bottom: 20px;
+}
+
+.wrapper {
+    background-position: center;
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    overflow: hidden;
+    height: 200px;
+}
+
+header .logo {
+    color: #f2f2f2;
+    font-size: 80px;
+    line-height: 100px;
+    float: left;
+    text-align: center;
+    width: 300px;
+    padding: 5px;
+}
+
+header nav {
+    float: right;
+    line-height: 200px;
+}
+
+header nav a {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+header nav a:hover {
+    background: #f56f3a;
+    border-radius: 50px;
+}
+
+
+
+
+
+
+.acomodar {
+    height: 500px;
+
+
+}
+
+
+
