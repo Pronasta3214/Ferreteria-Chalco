@@ -8,7 +8,7 @@
 }
 
 header {
-    width: 1000px;
+    width: 1000px%;
     overflow: hidden;
     background: #f30000;
     margin-bottom: 20px;
